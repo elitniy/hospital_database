@@ -1,0 +1,25 @@
+C:\Users\p102\documents\visual studio 2017\Projects\hospital_Database\hospital_Database\bin\Debug\hospital_Database.exe.config
+C:\Users\p102\documents\visual studio 2017\Projects\hospital_Database\hospital_Database\bin\Debug\hospital_Database.exe
+C:\Users\p102\documents\visual studio 2017\Projects\hospital_Database\hospital_Database\bin\Debug\hospital_Database.pdb
+C:\Users\p102\documents\visual studio 2017\Projects\hospital_Database\hospital_Database\obj\Debug\hospital_Database.Form1.resources
+C:\Users\p102\documents\visual studio 2017\Projects\hospital_Database\hospital_Database\obj\Debug\hospital_Database.Properties.Resources.resources
+C:\Users\p102\documents\visual studio 2017\Projects\hospital_Database\hospital_Database\obj\Debug\hospital_Database.csproj.GenerateResource.Cache
+C:\Users\p102\documents\visual studio 2017\Projects\hospital_Database\hospital_Database\obj\Debug\hospital_Database.exe
+C:\Users\p102\documents\visual studio 2017\Projects\hospital_Database\hospital_Database\obj\Debug\hospital_Database.pdb
+C:\Users\p102\Documents\Visual Studio 2017\Projects\hospital_Database\hospital_Database\obj\Debug\hospital_Database.csprojResolveAssemblyReference.cache
+C:\Users\p102\Documents\Visual Studio 2017\Projects\hospital_Database\hospital_Database\obj\Debug\hospital_Database.Hospital_system.resources
+C:\Users\p102\Desktop\filesss\hospital+database\hospital_Database\bin\Debug\hospital_Database.exe.config
+C:\Users\p102\Desktop\filesss\hospital+database\hospital_Database\bin\Debug\hospital_Database.exe
+C:\Users\p102\Desktop\filesss\hospital+database\hospital_Database\bin\Debug\hospital_Database.pdb
+C:\Users\p102\Desktop\filesss\hospital+database\hospital_Database\obj\Debug\hospital_Database.csprojResolveAssemblyReference.cache
+C:\Users\p102\Desktop\filesss\hospital+database\hospital_Database\obj\Debug\hospital_Database.Form1.resources
+C:\Users\p102\Desktop\filesss\hospital+database\hospital_Database\obj\Debug\hospital_Database.Properties.Resources.resources
+C:\Users\p102\Desktop\filesss\hospital+database\hospital_Database\obj\Debug\hospital_Database.csproj.GenerateResource.Cache
+C:\Users\p102\Desktop\filesss\hospital+database\hospital_Database\obj\Debug\hospital_Database.exe
+C:\Users\p102\Desktop\filesss\hospital+database\hospital_Database\obj\Debug\hospital_Database.pdb
+C:\Users\p102\Desktop\filesss\hospital+database\hospital_Database\obj\Debug\hospital_Database.Form2.resources
+C:\Users\p102\Desktop\filesss\hospital+database\hospital_Database\obj\Debug\hospital_Database.programa_giris.resources
+C:\Users\p102\Desktop\filesss\hospital+database\hospital_Database\obj\Debug\hospital_Database.sobenin_redakt_penceresi.resources
+C:\Users\p102\Desktop\filesss\hospital+database\hospital_Database\obj\Debug\hospital_Database.hekimlerin_redakt_penceresi.resources
+C:\Users\p102\Desktop\filesss\hospital+database\hospital_Database\obj\Debug\hospital_Database.redakt_penceresi.resources
+C:\Users\p102\Desktop\filesss\hospital+database\hospital_Database\obj\Debug\hospital_Database.tibb_bacilarin_redakt_penceresi.resources
